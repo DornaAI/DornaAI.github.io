@@ -1,0 +1,32 @@
+{
+  "name": "DornaAI",
+  "short_name": "Dorna",
+  "description": "هوش مصنوعی برای کسب‌وکارهای هوشمندتر — مشاوره، اتوماسیون، ایجنت و راهکارهای AI",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "fa",
+  "dir": "rtl",
+  "background_color": "#0b1220",
+  "theme_color": "#7a1f2b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.webp",
+      "type": "image/webp",
+      "sizes": "64x64",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-light.webp",
+      "type": "image/webp",
+      "sizes": "1024x1024",
+      "purpose": "any"
+    }
+  ]
+}

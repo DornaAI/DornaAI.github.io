@@ -1,0 +1,17 @@
+# DornaAI
+
+> DornaAI (درنا) helps businesses adopt practical AI — consulting, automation, intelligent agents, and custom AI solutions.
+
+## Site
+- Home: https://dornaai.ir/
+- About: https://dornaai.ir/about
+- Ideas & products: https://dornaai.ir/ideas
+- Contact: https://dornaai.ir/contact
+
+## Contact
+- Email: hello@dorna.ai
+
+## Notes
+- Brand: Dorna / DornaAI
+- Language: Persian (fa), RTL
+- Focus: B2B AI agents, customer experience, and business process automation
